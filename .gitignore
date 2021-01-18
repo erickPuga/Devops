@@ -1,3 +1,7 @@
 *.pdf
 *.pem
+<<<<<<< HEAD
 *.doc
+=======
+*.docx
+>>>>>>> fc5dcebd1869a57ba6f223b2ddc4d28ded79dc91
