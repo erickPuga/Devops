@@ -1,0 +1,8 @@
+---
+
+  - name: Install Java on Ubuntu
+    hosts: devops
+    become: True
+    tasks:
+      - name: Install Java
+        apt: name=default-jre

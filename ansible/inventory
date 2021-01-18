@@ -1,0 +1,6 @@
+[devops]
+20.46.250.134 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/epuga/personalprojects/azure/dev_key.pem
+[webserver]
+20.46.248.241 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/epuga/personalprojects/azure/dev_key.pem
+[db]
+20.46.251.6 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/epuga/personalprojects/azure/dev_key.pem

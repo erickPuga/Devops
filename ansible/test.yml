@@ -1,0 +1,16 @@
+---
+
+name: Michael Dehan
+age: 42
+# address: NY Road
+# city: New york
+# country: USA
+address: >
+  New East Road,
+  New York,
+  USA
+married: True
+children:
+ -Kevin
+ -Hayden
+
